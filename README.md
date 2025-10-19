@@ -1,43 +1,82 @@
-# Hi there 👋 I’m Rizky Hibatullah
+<!-- Profile README for rizkyhibatullah -->
 
-## 🎯 About Me  
-I’m a Mobile Enthusiast and currently an undergraduate student in Informatics Engineering. I enjoy building applications, learning new technologies, and exploring how software can solve real-world problems.
+<h1 align="center">Hi there, I'm <a href="https://github.com/rizkyhibatullah">Rizky Hibatullah</a> 👋</h1>
+<h3 align="center">🚀 Mobile & Web Developer | Kotlin • Jetpack Compose • Laravel</h3>
 
-## 🛠️ Technologies & Tools  
-Here are some of the technologies I’ve been working with:
-
-- **Mobile Development**: Kotlin, Jetpack Compose  
-- **Backend / Web**: PHP (Laravel), JavaScript  
-- **Databases & Storage**: Room, SQLite, API integration (Retrofit)  
-- **Version Control & DevOps**: Git, GitHub  
-- **Others**: CSS, HTML, Frontend basics  
-
-## 📂 Featured Projects  
-Here are a few repositories to check out:
-
-- [learn_retrofit_jetpackcompose](https://github.com/rizkyhibatullah/learn_retrofit_jetpackcompose) — Learning Jetpack Compose with Retrofit API integration  
-- [notes-app](https://github.com/rizkyhibatullah/notes-app) — Notes application built using Jetpack Compose & Room database  
-- [pos-warung](https://github.com/rizkyhibatullah/pos-warung) — Point-of-Sale system for small stores built with Laravel  
-- [pos-warung-android](https://github.com/rizkyhibatullah/pos-warung-android) — Android companion app for the POS system, built with Kotlin & Compose  
-- [jahe-kita-semua](https://github.com/rizkyhibatullah/jahe-kita-semua) — A website project using CSS (front-end)  
-- [gemini-chatbot](https://github.com/rizkyhibatullah/gemini-chatbot) — Chatbot project using JavaScript  
-
-*(…and many more – feel free to explore my repositories!)*
-
-## 🎓 Currently Learning  
-- Deepening my knowledge in modern Android development (e.g., Compose, Coroutines)  
-- Exploring backend architecture with Laravel and API-driven systems  
-- Improving my understanding of software architecture patterns and clean code principles  
-
-## 📫 How to Reach Me  
-Feel free to connect:  
-- GitHub: [@rizkyhibatullah](https://github.com/rizkyhibatullah)  
-- Email: *youremail@domain.com* (replace with your real email)  
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile) (replace with your URL)  
-
-## 🚀 Let’s Build Something  
-If you’re working on a mobile or web project and want a collaborator, I’m open to opportunities and happy to learn alongside you. Let’s get in touch!
+<p align="center">
+  <a href="https://github.com/rizkyhibatullah">
+    <img src="https://komarev.com/ghpvc/?username=rizkyhibatullah&label=Profile%20views&color=0e75b6&style=flat" alt="rizkyhibatullah" />
+  </a>
+</p>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
+### 🧑‍💻 About Me
+
+Hi! I’m **Muhammad Rizky Hibatullah**, an Informatics Engineering student who loves exploring how technology can solve real-world problems.  
+I specialize in **Android development** (Jetpack Compose, Kotlin) and **Web backend development** using **Laravel**.  
+
+I enjoy learning, coding, and turning ideas into functional, well-designed applications.
+
+---
+
+### ⚙️ Tech Stack
+
+#### 💻 Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,php,laravel,html,css,js,sqlite,mysql" />
+</p>
+
+#### 🧠 Currently Exploring
+- 🪄 **Clean Architecture** & **MVVM** for Android  
+- ⚡ Building **RESTful APIs** with Laravel  
+- 🤖 Integrating AI & API-based automation  
+
+---
+
+### 🏗️ Featured Projects
+
+#### 📱 Android Projects
+- 🚀 [**POS Warung Android**](https://github.com/rizkyhibatullah/pos-warung-android) — A Point-of-Sale system built with Kotlin + Jetpack Compose  
+- 🗒️ [**Notes App**](https://github.com/rizkyhibatullah/notes-app) — Simple notes app using Room Database and Compose  
+- 🌐 [**Learn Retrofit Jetpack Compose**](https://github.com/rizkyhibatullah/learn_retrofit_jetpackcompose) — Learning API integration with Retrofit  
+
+#### 💻 Web Projects
+- 🛒 [**POS Warung (Laravel)**](https://github.com/rizkyhibatullah/pos-warung) — Web-based POS system with Laravel  
+- 🤖 [**Gemini Chatbot**](https://github.com/rizkyhibatullah/gemini-chatbot) — Chatbot project using JavaScript  
+- 🌱 [**Jahe Kita Semua**](https://github.com/rizkyhibatullah/jahe-kita-semua) — Simple website project using HTML & CSS  
+
+---
+
+### 🧩 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rizkyhibatullah&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rizkyhibatullah&theme=tokyonight&hide_border=false" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyhibatullah&layout=compact&theme=tokyonight" alt="langs" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:youremail@domain.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/rizkyhibatullah"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+### ✨ Fun Facts
+- 🧩 I love experimenting with UI design and user experience.  
+- 🎮 Sometimes I take inspiration from games when designing interfaces.  
+- 📚 I believe **learning never stops** — each project teaches something new.  
+
+---
+
+> _“Code is like art — it’s meant to be crafted with passion, not just logic.”_ 🎨  
+> — Rizky Hibatullah
