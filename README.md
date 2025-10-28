@@ -24,7 +24,7 @@ I enjoy learning, coding, and turning ideas into functional, well-designed appli
 
 #### 💻 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,php,laravel,html,css,js,sqlite,mysql" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,php,laravel,html,css,js,sqlite,mysql" />
 </p>
 
 #### 🧠 Currently Exploring
@@ -69,14 +69,4 @@ I enjoy learning, coding, and turning ideas into functional, well-designed appli
   <a href="https://github.com/rizkyhibatullah"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"></a>
 </p>
 
----
-
-### ✨ Fun Facts
-- 🧩 I love experimenting with UI design and user experience.  
-- 🎮 Sometimes I take inspiration from games when designing interfaces.  
-- 📚 I believe **learning never stops** — each project teaches something new.  
-
----
-
-> _“Code is like art — it’s meant to be crafted with passion, not just logic.”_ 🎨  
-> — Rizky Hibatullah
+---ski
