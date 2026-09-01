@@ -38,24 +38,6 @@ Hi! I’m an **Informatics Engineering Student** passionate about building high-
 
 ---
 
-### 🏗️ Featured Projects
-
-#### 📱 Mobile Projects
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| 🚀 [**POS Warung Android**](https://github.com/rizkyhibatullah/pos-warung-android) | `Kotlin` `Jetpack Compose` | Point-of-Sale mobile app designed for micro & small businesses. |
-| 🗒️ [**Notes App**](https://github.com/rizkyhibatullah/notes-app) | `Kotlin` `Compose` `Room` | Modern Android local notes application using Room Database. |
-| 🌐 [**Learn Retrofit Compose**](https://github.com/rizkyhibatullah/learn_retrofit_jetpackcompose) | `Kotlin` `Retrofit` `REST API` | Educational project focused on API consumption using Clean Architecture. |
-
-#### 💻 Web & Backend Projects
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| 🛒 [**POS Warung Web**](https://github.com/rizkyhibatullah/pos-warung) | `Laravel` `Bootstrap` `MySQL` | Web-based Point-of-Sale management system for shop inventory and sales. |
-| 🤖 [**Gemini Chatbot**](https://github.com/rizkyhibatullah/gemini-chatbot) | `JavaScript` `Gemini API` | Interactive AI Chatbot built using Google Gemini API. |
-| 🌱 [**Jahe Kita Semua**](https://github.com/rizkyhibatullah/jahe-kita-semua) | `HTML` `CSS` | Informational landing page website. |
-
----
-
 ### 🧩 GitHub Stats
 
 <div align="center">
@@ -74,10 +56,10 @@ Hi! I’m an **Informatics Engineering Student** passionate about building high-
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:muhammadrizkyh123@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/muhammad-rizky-hibatullah)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/rizkyhibatullah">
