@@ -1,72 +1,86 @@
-<!-- Profile README for rizkyhibatullah -->
+<div align="center">
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/rizkyhibatullah">Rizky Hibatullah</a> 👋</h1>
-<h3 align="center">🚀 Mobile & Web Developer | Kotlin • Jetpack Compose • Laravel</h3>
+  <h1>Hi there, I'm <a href="https://github.com/rizkyhibatullah">Muhammad Rizky Hibatullah</a> 👋</h1>
+  <h3>🚀 Mobile & Backend Developer | Kotlin • Jetpack Compose • Laravel • Golang</h3>
 
-<p align="center">
-  <a href="https://github.com/rizkyhibatullah">
-    <img src="https://komarev.com/ghpvc/?username=rizkyhibatullah&label=Profile%20views&color=0e75b6&style=flat" alt="rizkyhibatullah" />
-  </a>
-</p>
+  <p>
+    <a href="https://github.com/rizkyhibatullah">
+      <img src="https://komarev.com/ghpvc/?username=rizkyhibatullah&label=Profile%20Views&color=0e75b6&style=flat-square" alt="rizkyhibatullah" />
+    </a>
+    <img src="https://img.shields.io/badge/Status-Open%20for%20Opportunities-brightgreen?style=flat-square" alt="Status" />
+  </p>
+
+</div>
 
 ---
 
 ### 🧑‍💻 About Me
 
-Hi! I’m **Muhammad Rizky Hibatullah**, an Informatics Engineering student who loves exploring how technology can solve real-world problems.  
-I specialize in **Android development** (Jetpack Compose, Kotlin) and **Web backend development** using **Laravel**.  
+Hi! I’m an **Informatics Engineering Student** passionate about building high-quality, scalable applications and solving real-world problems through technology.
 
-I enjoy learning, coding, and turning ideas into functional, well-designed applications.
+- 📱 **Mobile Development**: Focused on modern Android architecture using **Kotlin**, **Jetpack Compose**, and **Clean Architecture**.
+- 🌐 **Backend Development**: Experienced in **Laravel** and actively building high-performance APIs with **Golang** (Gin & GORM).
+- 🛠️ Strong interest in **RESTful API design**, **Database Optimization**, and **AI Integration**.
 
 ---
 
-### ⚙️ Tech Stack
+### ⚙️ Tech Stack & Tools
 
 #### 💻 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,php,laravel,html,css,js,sqlite,mysql" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,go,php,laravel,js,html,css&perline=8" />
 </p>
 
-#### 🧠 Currently Exploring
-- 🪄 **Clean Architecture** & **MVVM** for Android  
-- ⚡ Building **RESTful APIs** with Laravel  
-- 🤖 Integrating AI & API-based automation  
+#### 🗄️ Databases & Developer Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postman,git,github,docker,vscode&perline=8" />
+</p>
 
 ---
 
 ### 🏗️ Featured Projects
 
-#### 📱 Android Projects
-- 🚀 [**POS Warung Android**](https://github.com/rizkyhibatullah/pos-warung-android) — A Point-of-Sale system built with Kotlin + Jetpack Compose  
-- 🗒️ [**Notes App**](https://github.com/rizkyhibatullah/notes-app) — Simple notes app using Room Database and Compose  
-- 🌐 [**Learn Retrofit Jetpack Compose**](https://github.com/rizkyhibatullah/learn_retrofit_jetpackcompose) — Learning API integration with Retrofit  
+#### 📱 Mobile Projects
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| 🚀 [**POS Warung Android**](https://github.com/rizkyhibatullah/pos-warung-android) | `Kotlin` `Jetpack Compose` | Point-of-Sale mobile app designed for micro & small businesses. |
+| 🗒️ [**Notes App**](https://github.com/rizkyhibatullah/notes-app) | `Kotlin` `Compose` `Room` | Modern Android local notes application using Room Database. |
+| 🌐 [**Learn Retrofit Compose**](https://github.com/rizkyhibatullah/learn_retrofit_jetpackcompose) | `Kotlin` `Retrofit` `REST API` | Educational project focused on API consumption using Clean Architecture. |
 
-#### 💻 Web Projects
-- 🛒 [**POS Warung (Laravel)**](https://github.com/rizkyhibatullah/pos-warung) — Web-based POS system with Laravel  
-- 🤖 [**Gemini Chatbot**](https://github.com/rizkyhibatullah/gemini-chatbot) — Chatbot project using JavaScript  
-- 🌱 [**Jahe Kita Semua**](https://github.com/rizkyhibatullah/jahe-kita-semua) — Simple website project using HTML & CSS  
+#### 💻 Web & Backend Projects
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| 🛒 [**POS Warung Web**](https://github.com/rizkyhibatullah/pos-warung) | `Laravel` `Bootstrap` `MySQL` | Web-based Point-of-Sale management system for shop inventory and sales. |
+| 🤖 [**Gemini Chatbot**](https://github.com/rizkyhibatullah/gemini-chatbot) | `JavaScript` `Gemini API` | Interactive AI Chatbot built using Google Gemini API. |
+| 🌱 [**Jahe Kita Semua**](https://github.com/rizkyhibatullah/jahe-kita-semua) | `HTML` `CSS` | Informational landing page website. |
 
 ---
 
 ### 🧩 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizkyhibatullah&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rizkyhibatullah&theme=tokyonight&hide_border=false" alt="streak" />
-</p>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rizkyhibatullah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rizky's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyhibatullah&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyhibatullah&layout=compact&theme=tokyonight" alt="langs" />
-</p>
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rizkyhibatullah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
 ### 📫 Connect With Me
 
-<p align="left">
-  <a href="mailto:youremail@domain.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/rizkyhibatullah"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"></a>
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/rizkyhibatullah">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
-
----ski
